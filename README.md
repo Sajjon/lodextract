@@ -1,3 +1,10 @@
+# Credits
+All credits go to [Johannes Schauer a.k.a. `josch`](https://github.com/josch) who've written the original script.
+
+I've only modified the scripts to write hashes, which I will use to assert correctness of [my Swift implementation of HoMM3 called `Makt`](https://github.com/Sajjon/Makt). I've also upgraded to Python 3.8.
+
+# Instructions
+
 This is a set of scripts which shows how to unpack all bitmaps and animations
 of Heroes of Might and Magic 3 into PNG images and then back into the formats
 understood by VCMI.
